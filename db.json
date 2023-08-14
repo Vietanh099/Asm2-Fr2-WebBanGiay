@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "VietAnh",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "img": "https://inkythuatso.com/uploads/thumbnails/800/2022/03/anh-dai-dien-dep-de-thuong-cho-facebook-zalo-9-29-10-23-37.jpg",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "VietAnhkaka",
+      "email": "va@gmail.com",
+      "role": "member",
+      "img": "https://inkythuatso.com/uploads/thumbnails/800/2022/03/anh-dai-dien-zalo-4-29-15-11-33.jpg",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "name": "Nike Air 72",
+      "price": "98",
+      "id": 1,
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/73dfecb1-42e2-46d6-97a5-aa1683bb9734/pegasus-40-road-running-shoes-4TS8dd.png",
+      "desc": "Made in Cambodia"
+    },
+    {
+      "name": "Sản phẩm 2 updated",
+      "price": "200",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/370a6fc5-7c2f-47e3-a5a2-fb29a80d3e65/pegasus-40-road-running-shoes-ztffW8.png",
+      "id": 2,
+      "desc": "Made in VietNam"
+    },
+    {
+      "name": "Nike AirMax",
+      "price": "123",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/309171ac-32a0-4adc-bb55-0cf08552d75f/pegasus-turbo-road-running-shoes-wq9drv.png",
+      "id": 3,
+      "desc": "Made in VietNam"
+    },
+    {
+      "name": "Nike AirForce",
+      "price": "219",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f379761e-96bb-4afa-8d6f-55ec3102f535/pegasus-40-se-road-running-shoes-1jMJKm.png",
+      "desc": "Made in Cambodia",
+      "id": 4
+    },
+    {
+      "name": "Nike Air",
+      "price": "200",
+      "img": "https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_300,c_limit/a9c53cbd-f516-497d-b197-0360fae31f63/nike-just-do-it.jpg",
+      "desc": "Made in Italya",
+      "id": 5
+    },
+    {
+      "name": "Nike Air plus",
+      "price": "200",
+      "img": "https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_300,c_limit/88319872-3c63-4fcd-b0f6-0d6a575c56b6/nike-just-do-it.jpg",
+      "desc": "Made In VietNam",
+      "id": 6
+    },
+    {
+      "name": "Nike Air Max ",
+      "price": "179",
+      "img": "https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_300,c_limit/b2548270-ee37-4c5c-93c0-20fb30adcd42/nike-just-do-it.jpg",
+      "desc": "Made in VietNam",
+      "id": 7
+    },
+    {
+      "name": "Nike Laika",
+      "price": "230",
+      "img": "https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_300,c_limit/b2548270-ee37-4c5c-93c0-20fb30adcd42/nike-just-do-it.jpg",
+      "desc": "Made in Cambodia",
+      "id": 8
+    },
+    {
+      "name": "Nike Fake",
+      "price": "230",
+      "img": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/w_467,c_limit/34f07fee-ec12-4d46-b53f-6bced05247de/air-jordan-3-retro-mens-shoes-5M3ZlK.png",
+      "desc": "Made in Cambodia",
+      "id": 9
+    }
+  ]
+}
